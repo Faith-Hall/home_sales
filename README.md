@@ -1,15 +1,15 @@
 # home_sales
 ### In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 ---
-Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
+- Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
-Import the necessary PySpark SQL functions for this assignment.
+- Import the necessary PySpark SQL functions for this assignment.
 
-Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
+- Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
-Create a temporary table called home_sales.
+- Create a temporary table called home_sales.
 
-Answer the following questions using SparkSQL:
+- Answer the following questions using SparkSQL:
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 ![Screenshot 2023-12-05 130332](https://github.com/Faith-Hall/home_sales/assets/135525815/27433bb2-73e8-4454-8272-4c3bb04172c3)
